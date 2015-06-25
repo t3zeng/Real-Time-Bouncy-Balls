@@ -1,0 +1,5 @@
+--cpu Cortex-M3 "startup_lpc17xx.o" "bestgameever.o" "uart.o" "system_lpc17xx.o" "bestgameever.o" "glcd_scroll.o" "glcd_spi_lpc1700.o" "retarget.o" "rtx_conf_cm.o" 
+C:\Software\Keil\ARM\RV31\LIB\RTX_CM3.LIB --strict --scatter "project4.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\project4.map" -o project4.axf

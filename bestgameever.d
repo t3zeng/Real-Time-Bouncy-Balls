@@ -1,0 +1,16 @@
+bestgameever.o: BestGameEVER.c
+bestgameever.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+bestgameever.o: C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+bestgameever.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+bestgameever.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+bestgameever.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+bestgameever.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+bestgameever.o: C:\Software\Keil\ARM\RV31\INC\RTL.h
+bestgameever.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+bestgameever.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdio.h
+bestgameever.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+bestgameever.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\limits.h
+bestgameever.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\math.h
+bestgameever.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\time.h
+bestgameever.o: BestGameEVER.h
+bestgameever.o: GLCD.h

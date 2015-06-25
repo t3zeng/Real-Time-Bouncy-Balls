@@ -1,0 +1,51 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\project 4\project4.uvproj
+Project File Date:  11/18/2014
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling BestGameEVER.c...
+BestGameEVER.c(69): warning:  #69-D: integer conversion resulted in truncation
+BestGameEVER.c(70): warning:  #69-D: integer conversion resulted in truncation
+BestGameEVER.c(72): warning:  #69-D: integer conversion resulted in truncation
+BestGameEVER.c(101): warning:  #61-D: integer operation result is out of range
+BestGameEVER.c(101): warning:  #68-D: integer conversion resulted in a change of sign
+BestGameEVER.c(102): warning:  #61-D: integer operation result is out of range
+BestGameEVER.c(102): warning:  #68-D: integer conversion resulted in a change of sign
+BestGameEVER.c(140): warning:  #61-D: integer operation result is out of range
+BestGameEVER.c(140): warning:  #68-D: integer conversion resulted in a change of sign
+BestGameEVER.c(327): warning:  #69-D: integer conversion resulted in truncation
+compiling uart.c...
+compiling system_LPC17xx.c...
+compiling BestGameEVER.c...
+BestGameEVER.c(69): warning:  #69-D: integer conversion resulted in truncation
+BestGameEVER.c(70): warning:  #69-D: integer conversion resulted in truncation
+BestGameEVER.c(72): warning:  #69-D: integer conversion resulted in truncation
+BestGameEVER.c(101): warning:  #61-D: integer operation result is out of range
+BestGameEVER.c(101): warning:  #68-D: integer conversion resulted in a change of sign
+BestGameEVER.c(102): warning:  #61-D: integer operation result is out of range
+BestGameEVER.c(102): warning:  #68-D: integer conversion resulted in a change of sign
+BestGameEVER.c(140): warning:  #61-D: integer operation result is out of range
+BestGameEVER.c(140): warning:  #68-D: integer conversion resulted in a change of sign
+BestGameEVER.c(327): warning:  #69-D: integer conversion resulted in truncation
+compiling GLCD_Scroll.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling Retarget.c...
+compiling RTX_Conf_CM.c...
+linking...
+project4.axf: Warning: L6304W: Duplicate input file bestgameever.o ignored.
+Program Size: Code=11372 RO-data=6548 RW-data=128 ZI-data=32496  
+"project4.axf" - 0 Error(s), 21 Warning(s).
+Load "N:\\project 4\\project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "N:\\project 4\\project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
